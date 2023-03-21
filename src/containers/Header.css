@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Sono:wght@600&display=swap");
+
+.title {
+  color: aliceblue;
+  font-family: "Sono", sans-serif;
+  font-size: x-large;
+  padding-left: 10px;
+  list-style: none;
+}
